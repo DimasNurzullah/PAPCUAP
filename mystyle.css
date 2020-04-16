@@ -1,0 +1,21 @@
+<style type="text/css">
+		h1 {
+			color : #ff0000;
+			text-align: center;
+		}
+
+		p {
+			font-size: 30px;
+		}
+
+		/* selector yang menggunakan ID */
+		#judul {
+			color: blue;
+		}
+
+		/* selector yang menggunakan Class */
+		.penting {
+			font-weight: bold;
+		}
+
+	</style>
